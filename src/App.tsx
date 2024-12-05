@@ -183,7 +183,7 @@ const primary_text:string = "text-primary fw-bold"
                       <br/>
                       Zimbabwe
                   </p>
-                  <a href={"mailto:info@tcs.co.zw"}>info@tcs.co.zw</a>
+                  <a href={"mailto:info@tessclean.co.zw"}>info@tcs.co.zw</a>
                   <br/>
                   <a href={"tel:+263771692396"}>+263 77 169 2396</a>
               </div>
