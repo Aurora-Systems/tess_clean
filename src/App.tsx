@@ -40,7 +40,7 @@ const primary_text:string = "text-primary fw-bold"
                       </p>
                   </div>
                   <div className={"col-sm mb-3"}>
-                      <img src={"https://ngratesc.sirv.com/Tessany/close-up-hands-holding-cleaning-supplies.jpg"} className={"img-fluid"}/>
+                      <img src={"https://cdn.clipond.com/Tessany/close-up-hands-holding-cleaning-supplies.jpg"} className={"img-fluid"}/>
                   </div>
                   <div className={"text-center"}>
                       <h3 className={primary_text}>Our Services</h3>
@@ -153,7 +153,7 @@ const primary_text:string = "text-primary fw-bold"
                       </ol>
                   </div>
                   <div className={"col-sm mb-3"}>
-                      <img src={"https://ngratesc.sirv.com/Tessany/2150379209.jpg"} className={"img-fluid"}/>
+                      <img src={"https://cdn.clipond.com/Tessany/2150379209.jpg"} className={"img-fluid"}/>
 
                   </div>
 
@@ -166,7 +166,7 @@ const primary_text:string = "text-primary fw-bold"
                           sustainable service.</p>
                   </div>
                   <div className={"col-sm mb-3" }>
-                      <img src={"https://ngratesc.sirv.com/Tessany/135154.jpg"} className={"img-fluid"}/>
+                      <img src={"https://cdn.clipond.com/Tessany/135154.jpg"} className={"img-fluid"}/>
                   </div>
               </div>
           </div>
